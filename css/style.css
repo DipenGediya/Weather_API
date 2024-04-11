@@ -1,0 +1,27 @@
+.background {
+    background: ghostwhite;
+    height: 100vh;
+}
+
+.navbar{
+    background-color: rgb(29 40 40);
+}
+
+.navbar a{
+    color: white;
+}
+
+.navbar .nav-btn{
+    color: white;
+    border: 1px solid white;
+    background-color: transparent;
+    border-radius: 5px;
+}
+
+.navbar-brand:hover {
+    color: white !important;
+}
+
+.nav-link:hover {
+    color: white !important;
+}
